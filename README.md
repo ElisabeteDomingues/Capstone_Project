@@ -1,6 +1,6 @@
 # Capstone_Project
 
-The capstone project was the final group project for the data analytics course at Boolean UK Academy. It focused on an E-commerce business/marketing setting. My role involved analyzing the user table. I conducted a query, extracted data, performed cleaning and manipulation using Python, and analyzed the user's online behavior, presenting the results in Tableau
+The capstone project was the final group project for the data analytics course at Boolean UK Academy. It focused on an E-commerce business/marketing setting. My role involved analyzing the user table. I conducted a query, extracted data, performed cleaning and manipulation using Python, and analyzed the user's online behavior, presenting the results in Tableau.
 
 BigQuery was used solely for data download, where I conducted a simple cleaning in Python and visualized the data in Tableau.
 
